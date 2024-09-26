@@ -2,7 +2,8 @@
 My name is Kieu Van Quyet and I am a student majoring in web development with a strong passion for building and developing web applications. My goal is to create optimized, user-friendly websites that provide the best experience for customers. I am constantly seeking opportunities to expand my knowledge and skills in programming.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kieuvanquyet) 
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kieu-van-quyet-2b042831a/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/kieuvanquyet)
 
 
 
