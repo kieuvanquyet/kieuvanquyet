@@ -22,6 +22,9 @@ My name is Kieu Van Quyet and I am a student majoring in web development with a 
 <a href="https://github.com/kieuvanquyet/shop_nuoc_hoa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kieuvanquyet&repo=shop_nuoc_hoa&theme=cobalt" />
 </a>
+<a href="https://github.com/kieuvanquyet/Ecommerce_Laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kieuvanquyet&repo=Ecommerce_Laravel&theme=dracula" />
+</a>
 
 
 
